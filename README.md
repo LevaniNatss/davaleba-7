@@ -1,2 +1,2 @@
-# davaleba-7
-meshvide davaleba
+# davaleba-6
+meeqvse davaleba
